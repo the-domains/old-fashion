@@ -1,0 +1,28 @@
+name: Old Fashion
+favicon: null
+layout_spectrum: 0.8980016096029431
+typography_spectrum: 0.1297706274781376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.36842850456014276
+  lightness: 0.2381086777895689
+  saturation: 0.8701197619084269
+  rhythmicContrast: 0.7177530995104462
+purpose: []
