@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Old Fashion]]></title>
         <description><![CDATA[Old Fashion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/old-fashion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 07:14:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 07:22:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/old-fashion/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Old Fashion Site]]></title>
             <description><![CDATA[<article><h1>Old Fashion Site</h1><p>Old Fashion</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/470eb1e670a97fb1ed110da6ebfed1aecf4e9d60.jpg"></article>]]></description>
-            <link>undefinedold-fashion-site/index.html</link>
+            <link>https://thegrid.ai/old-fashion/old-fashion-site/index.html</link>
             <guid isPermaLink="false">914708f1-8817-45b4-b512-9ec5396817a8</guid>
-            <pubDate>Sun, 03 Jan 2016 07:14:26 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 07:21:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
